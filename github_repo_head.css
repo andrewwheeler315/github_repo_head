@@ -1,0 +1,26 @@
+.text {
+    color: gray;
+    font-weight: bold;
+}
+
+.drop { 
+    padding-left: 0px;
+    padding-right: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    height: 1rem;
+    width: 1rem;
+    color: #404448;
+    background-color: #404448;
+}
+
+.dropdown-toggle {
+    color: gray;
+}
+
+button {
+    flex: left;
+    background-color: /*#f1f5f7*/white;
+    color: black;
+    padding-right: 14px;
+}
